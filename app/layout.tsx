@@ -15,7 +15,7 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "Yoom",
+  title: "Huddle",
   description: "Zoom clone built using Next.js and Stream.",
 };
 

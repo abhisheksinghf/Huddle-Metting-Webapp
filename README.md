@@ -1,4 +1,4 @@
-# Yoom
+# Huddle
 Minimalistic zoom clone built using Next.js & Stream
 ## Preview
 ### Home
