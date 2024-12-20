@@ -32,7 +32,9 @@ const MobileNav = () => {
         </SheetTrigger>
         <SheetContent side="left" className="border-none bg-dark-1">
           <Link href="/" className="flex items-center gap-1">
-            <Video className="text-white h-8 w-8 mr-2" />
+            {/* <Video className="text-white h-8 w-8 mr-2" /> */}
+        <img src="https://i.ibb.co/JH3tZNP/Group-331.png" className="mr-4" height={40} width={40} alt="abcd" />
+
             <p className="text-[26px] font-extrabold text-blue-1">Huddle</p>
           </Link>
           <ul className="flex h-[calc(100vh-72px)] flex-col justify-between overflow-y-auto">
